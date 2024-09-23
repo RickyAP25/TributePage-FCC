@@ -40,7 +40,7 @@ body{
   
   img{
     display: block;
-    max-width: 100%;
+    max-width: 50%;
     height: auto;
     margin: auto;
   }
@@ -128,9 +128,4 @@ body{
     justify-content: center;
     padding-top: 20px;
     padding-bottom: 50px;
-  }
-  
-  iframe{
-    width: 356px;
-    height: 200px;
   }
